@@ -1,5 +1,7 @@
-
+---
 title: Kongleochi
+date: 2019-08-27
+---
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
